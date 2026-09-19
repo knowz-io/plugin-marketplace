@@ -377,7 +377,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/knowz-io/cursor-knowz-plugin.git",
-        "sha": "38d5faf24c66ec1fa8fe29423b24f5d3765f8156",
+        "sha": "7b783c8ea8ffdcb0eb96b5a0f01e7a077941d9b7",
         "path": "plugins/knowz"
       },
       "homepage": "https://knowz.io",
@@ -391,7 +391,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/knowz-io/cursor-knowz-plugin.git",
-        "sha": "38d5faf24c66ec1fa8fe29423b24f5d3765f8156",
+        "sha": "7b783c8ea8ffdcb0eb96b5a0f01e7a077941d9b7",
         "path": "plugins/knowzcode"
       },
       "homepage": "https://knowz.io",
